@@ -1,3 +1,0 @@
-# Testing
-
-sample git repo
